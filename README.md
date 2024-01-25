@@ -6,8 +6,6 @@
 
 📌 This repository contains all practices in **Python**.
 
-📌 For **Java** practices, please refer to "BaekjoonPractice" repository.
-
 https://www.acmicpc.net/
 
 ## Why Python?
