@@ -1,4 +1,4 @@
-# BackjoonPractice_Python
+# Python Practice
 
 ✅ GOAL: Practice using python
 
